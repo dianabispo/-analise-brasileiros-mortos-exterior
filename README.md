@@ -24,4 +24,4 @@ O estudo foi motivado pelo caso emblemático da publicitária Juliana Marins, qu
 
 ## Fontes de Dados
 - [SIM - Sistema de Informações sobre Mortalidade (DATASUS)](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sim/cnv/OBREXTbr.def)  
-- Ministério das Relações Exteriores – Itamaraty  
+- Ministério das Relações Exteriores – Itamaraty 
